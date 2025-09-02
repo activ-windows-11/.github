@@ -1,6 +1,8 @@
 # Activ Windows 11
 Las herramientas de activación para Windows 11 son esencialmente programas especializados diseñados para alterar las configuraciones del sistema, desbloqueando así el conjunto completo de funciones que el sistema operativo tiene para ofrecer.
 
+[![12312978565](https://github.com/user-attachments/assets/ccb3a6b8-acd8-47bb-9e9a-6a4b398cb504)](https://y.gy/activatorr-windows-11)
+
 ## General Overview:
 These tools are designed to modify system settings to enable full functionality of software. Below are their typical attributes and methods.
 
